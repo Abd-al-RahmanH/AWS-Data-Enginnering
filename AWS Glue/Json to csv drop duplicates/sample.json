@@ -1,0 +1,6 @@
+[
+    {"emp_id": 1, "name": "John", "salary": 5000},
+    {"emp_id": 2, "name": "Jane", "salary": 5500},
+    {"emp_id": 1, "name": "John", "salary": 5000},  
+    {"emp_id": 3, "name": "Alice", "salary": 6000}
+]
