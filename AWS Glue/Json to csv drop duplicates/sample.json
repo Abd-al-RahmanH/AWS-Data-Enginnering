@@ -1,6 +1,33 @@
 [
-    {"emp_id": 1, "name": "John", "salary": 5000},
-    {"emp_id": 2, "name": "Jane", "salary": 5500},
-    {"emp_id": 1, "name": "John", "salary": 5000},  
-    {"emp_id": 3, "name": "Alice", "salary": 6000}
-]
+    {
+      "customer_id": "1",
+      "product_name": "mobile",
+      "sales": "250000",
+      "date": "2023-10-01"
+    },
+    {
+      "customer_id": "1",
+      "product_name": "refrigerator",
+      "sales": "30000",
+      "date": "2023-10-01"
+    },
+    {
+      "customer_id": "1",
+      "product_name": "mobile",
+      "sales": "250000",
+      "date": "2023-10-01"
+    },
+    {
+      "customer_id": "2",
+      "product_name": "washing machine",
+      "sales": "35000",
+      "date": "2023-10-02"
+    },
+    {
+      "customer_id": "2",
+      "product_name": "mobile",
+      "sales": "250000",
+      "date": "2023-10-02"
+    }
+  ]
+  
